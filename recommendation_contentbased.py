@@ -1,4 +1,3 @@
-%matplotlib inline
 from sklearn import preprocessing
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA

@@ -2,7 +2,7 @@ import psycopg2
 
 # Connect to database
 connection = psycopg2.connect(user = "admin",
-                              password = "***REMOVED***",
+                              password = "",
                               host = "connordowson.com",
                               port = "5432",
                               database = "algorhythm")

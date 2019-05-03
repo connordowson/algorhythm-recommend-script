@@ -10,7 +10,7 @@ import psycopg2
 import recommendations
 
 connection = psycopg2.connect(user = "admin",
-                              password = "***REMOVED***",
+                              password = "Mmw15h5daw",
                               host = "connordowson.com",
                               port = "5432",
                               database = "algorhythm")
